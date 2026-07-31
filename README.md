@@ -120,7 +120,7 @@ Provides insights into:
 
 ## Welcome Page
 
-![Welcome Page](Images/01-Welcome-Page.png)
+![Welcome Page](Images/01-Welcome-page.png)
 
 ---
 
