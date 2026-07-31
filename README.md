@@ -1,6 +1,6 @@
 # 📊 PalmPay Transaction Analysis Dashboard
 
-![Dashboard Cover](Images/dashboard-cover.png)
+![Dashboard Cover](Images/Dashboard-cover.png)
 
 An end-to-end data analytics project that transforms raw PalmPay transaction history into an interactive financial dashboard using **Excel, Power Query, MySQL, and Power BI**.
 
@@ -138,7 +138,7 @@ Provides insights into:
 
 ## Expense Analysis
 
-![Expense Analysis](Images/04-Expense-Analysis.png)
+![Expense Analysis](Images/04-Expenses-Analysis.png)
 
 ---
 
