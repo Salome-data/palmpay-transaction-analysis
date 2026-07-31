@@ -207,6 +207,6 @@ PalmPay-Transaction-Analysis
 
 **Salome Aondoakaa**
 
-** Data Analyst**
+Data Analyst
 
 If you found this project interesting, feel free to ⭐ this repository or connect with me on LinkedIn.
