@@ -31,7 +31,7 @@ The project follows a complete data analytics workflow—from data extraction an
 |------|---------|
 | Microsoft Excel | Initial data handling |
 | Power Query | Data extraction, transformation and cleaning |
-| MySQL | Data storage and exploratory data analysis |
+| MySQL | Data storage and standardization |
 | Power BI | Dashboard development |
 | DAX | KPI calculations and dynamic measures |
 
